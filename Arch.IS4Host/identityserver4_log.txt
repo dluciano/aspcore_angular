@@ -1,0 +1,129 @@
+2018-08-03 00:45:56.827 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:45:56.872 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:45:56.872 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:45:56.872 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:45:56.873 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 00:49:29.104 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:49:29.138 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:49:29.138 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:49:29.138 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:49:29.138 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 00:54:43.212 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:54:43.239 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:54:43.239 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:54:43.239 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:54:43.239 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 00:56:27.730 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:56:27.756 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:56:27.756 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:56:27.756 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:56:27.756 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 00:56:43.975 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:56:44.000 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:56:44.000 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:56:44.000 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:56:44.000 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 00:59:05.410 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 00:59:05.437 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 00:59:05.437 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 00:59:05.437 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 00:59:05.437 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:03:10.000 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:03:10.029 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:03:10.029 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:03:10.029 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:03:10.029 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:04:48.246 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:04:48.272 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:04:48.272 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:04:48.272 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:04:48.272 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:05:50.159 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:05:50.186 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:05:50.186 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:05:50.186 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:05:50.186 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:08:35.809 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:08:35.844 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:08:35.844 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:08:35.844 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:08:35.844 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:10:21.800 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:10:21.827 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:10:21.827 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:10:21.827 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:10:21.827 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:11:15.939 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:11:15.966 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:11:15.966 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:11:15.966 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:11:15.966 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:14:24.766 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:14:24.793 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:14:24.793 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:14:24.793 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:14:24.793 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:20:34.481 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:20:34.511 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:20:34.511 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:20:34.511 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:20:34.511 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:21:12.710 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:21:12.738 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:21:12.738 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:21:12.738 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:21:12.738 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:28:40.597 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:28:40.629 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:28:40.629 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:28:40.629 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:28:40.629 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:36:26.367 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:36:26.396 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:36:26.396 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:36:26.396 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:36:26.396 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:54:39.570 +01:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-08-03 01:54:39.603 +01:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-08-03 01:54:39.603 +01:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-08-03 01:54:39.603 +01:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-08-03 01:54:39.603 +01:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-08-03 01:55:20.228 +01:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-08-03 01:55:20.259 +01:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-08-03 01:55:20.259 +01:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-08-03 01:55:20.263 +01:00 [DBG] Start discovery request
+2018-08-03 01:55:20.749 +01:00 [DBG] Found ["openid","profile","api1"] as all scopes in database
+2018-08-03 01:55:49.616 +01:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2018-08-03 01:55:49.618 +01:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2018-08-03 01:55:49.618 +01:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2018-08-03 01:55:49.618 +01:00 [DBG] Start discovery request
+2018-08-03 01:55:49.640 +01:00 [DBG] Found ["openid","profile","api1"] as all scopes in database
+2018-08-03 01:56:28.703 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-03 01:56:31.552 +01:00 [INF] AuthenticationScheme: Google was challenged.
+2018-08-03 01:56:35.797 +01:00 [INF] AuthenticationScheme: Identity.External signed in.
+2018-08-03 01:56:35.824 +01:00 [INF] AuthenticationScheme: Identity.External was successfully authenticated.
+2018-08-03 01:56:36.494 +01:00 [DBG] Augmenting SignInContext
+2018-08-03 01:56:36.497 +01:00 [DBG] Adding amr claim with value: external
+2018-08-03 01:56:36.506 +01:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-03 01:56:36.513 +01:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-03 01:56:36.525 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:36.525 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:36.553 +01:00 [DBG] 0 persisted grants found for c5c436dc-1d59-4974-8099-526741b0d76f
+2018-08-03 01:56:43.736 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:43.736 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:45.608 +01:00 [DBG] CORS request made for path: /Account/Logout from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-08-03 01:56:45.608 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:45.608 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:56:45.652 +01:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2018-08-03 01:56:45.652 +01:00 [INF] AuthenticationScheme: Identity.External signed out.
+2018-08-03 01:56:45.652 +01:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2018-08-03 01:57:05.158 +01:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2018-08-03 01:57:40.150 +01:00 [DBG] CORS request made for path: /account/login from origin: null but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2018-08-03 01:57:40.200 +01:00 [DBG] Augmenting SignInContext
+2018-08-03 01:57:40.200 +01:00 [DBG] Adding idp claim with value: local
+2018-08-03 01:57:40.200 +01:00 [DBG] Adding amr claim with value: pwd
+2018-08-03 01:57:40.200 +01:00 [DBG] Adding auth_time claim with value: 1533257860
+2018-08-03 01:57:40.200 +01:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2018-08-03 01:57:40.206 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:57:40.206 +01:00 [INF] AuthenticationScheme: Identity.Application was successfully authenticated.
+2018-08-03 01:57:40.208 +01:00 [DBG] 0 persisted grants found for ea5cb6cd-79d1-44a8-9d8a-2872f1c07656
